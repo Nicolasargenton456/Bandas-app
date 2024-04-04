@@ -10,6 +10,8 @@ export default function Home({navigation}) {
       title:"Highway to hell",
       group: "AC/DC",
       album_image: "https://www.acdcbrasil.net/wp-content/uploads/capa-acdc-highway-to-hell.jpg",
+      year:2022,
+      genre: "rock"
   };
 
   return (
